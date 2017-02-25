@@ -1,8 +1,11 @@
 <!DOCTYPE HTML>
+<htm
+ <html>
+ <head>
+ <title>REPOZYTORIUM</title>
+ </head>
 
-<html>
-<head>
-</head>
-<body>
+ <body>
+
 </body>
 </html>
